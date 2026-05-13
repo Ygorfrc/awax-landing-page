@@ -4,7 +4,6 @@
 ![JavaScript](https://img.shields.io/badge/Vanilla-JS-F7DF1E.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26.svg)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)
-![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 
 A responsive landing page for a modern creative design agency based in New York, built with vanilla HTML, CSS, and JavaScript.
 
