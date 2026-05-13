@@ -1,52 +1,109 @@
-# Projeto Awax
+# Awax - Creative Agency Landing Page
 
-## Descrição
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![JavaScript](https://img.shields.io/badge/Vanilla-JS-F7DF1E.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26.svg)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)
+![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 
-Este é o projeto "Awax", um site responsivo para uma agência de design criativo localizada em Nova York. O site apresenta seções como banner, sobre nós, serviços, projetos, equipe, clientes satisfeitos, preços, fatos, contato e rodapé. Inclui funcionalidades interativas como sliders automáticos e botões de navegação.
+A responsive landing page for a modern creative design agency based in New York, built with vanilla HTML, CSS, and JavaScript.
 
-## Tecnologias Utilizadas
+## Overview
 
-- **HTML5**: Estrutura do site.
-- **CSS3**: Estilização e layout responsivo.
-- **JavaScript**: Funcionalidades interativas, como sliders e botões flutuantes.
+Awax is a professional, fully-responsive website showcasing a design agency's services, portfolio, team, and pricing. It features smooth animations, interactive sliders, and a clean, contemporary design perfect for creative professionals.
 
-## Como Executar
+## Tech Stack
 
-1. Clone ou baixe o repositório.
-2. Abra o arquivo `home.html` em qualquer navegador web moderno.
-3. O site será carregado e todas as funcionalidades estarão disponíveis.
+- **HTML5** - Semantic markup and structure
+- **CSS3** - Modern styling with flexbox and responsive design
+- **JavaScript (Vanilla)** - Interactive functionality without dependencies
 
-Não há necessidade de servidor local ou dependências adicionais, pois é um projeto estático.
+## Features
 
-## Estrutura do Projeto
+✨ **Interactive Elements**
+- Automatic carousel sliders with manual controls (banner, team, clients, premium features)
+- Smooth scroll-to-top button that appears on scroll
+- Floating WhatsApp contact button
+
+📱 **Responsive Design**
+- Mobile-first approach
+- Optimized for all screen sizes (mobile, tablet, desktop)
+- Smooth transitions and hover effects
+
+🎨 **Complete Sections**
+- Hero banner with call-to-action
+- About Us
+- Services showcase
+- Portfolio/Projects gallery
+- Team members carousel
+- Client testimonials
+- Pricing plans
+- Statistics/Facts
+- Contact form
+- Footer with newsletter signup
+
+## Getting Started
+
+### Prerequisites
+No dependencies or build tools required. Works with any modern web browser.
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/awax-landing-page.git
+```
+
+2. Open in browser
+```bash
+# Simply open index.html in your browser
+# On Windows, you can double-click the file
+# Or run a local server (optional):
+python -m http.server 8000  # Python 3
+# Then visit http://localhost:8000
+```
+
+## Project Structure
 
 ```
-Projeto Awax/
-├── home.html                 # Página principal do site
+awax-landing-page/
+├── index.html                 # Main page
 ├── assets/
 │   ├── css/
-│   │   └── style.css         # Arquivo de estilos CSS
-│   ├── script.js             # Arquivo JavaScript para funcionalidades
-│   └── images/               # Pasta com imagens e ícones
-├── media/                    # Pasta com arquivos de mídia adicionais
-└── README.md                 # Este arquivo
+│   │   └── style.css         # All styles
+│   ├── images/               # Icons and graphics
+│   │   └── icons8-*.png     # Icon library
+│   └── script.js             # Interactive features
+├── media/                    # Additional media files
+└── README.md
 ```
 
-## Funcionalidades
+## Browser Support
 
-- **Sliders**: Banners, equipe, clientes e seções premium com navegação automática e manual.
-- **Botão de WhatsApp**: Flutuante para contato rápido.
-- **Botão "Voltar ao Topo"**: Aparece ao rolar a página.
-- **Responsivo**: Design adaptável para diferentes tamanhos de tela.
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
 
-## Contribuição
+## Contributing
 
-Sinta-se à vontade para contribuir com melhorias. Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Licença
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Este projeto é de uso pessoal/educacional. Verifique os direitos de uso das imagens e ícones utilizados.
+## License
 
-## Autor
+This project is open source and available under the MIT License.
 
-Desenvolvido por [Seu Nome]. Para dúvidas, entre em contato via [email ou link].
+## Credits
+
+- Icons from [Icons8](https://icons8.com)
+- Font: [Montserrat](https://fonts.google.com/specimen/Montserrat) from Google Fonts
+
+## Author
+
+Developed by Ygor Ribeiro. Feel free to reach out for questions or feedback.
