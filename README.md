@@ -8,6 +8,8 @@
 
 A responsive landing page for a modern creative design agency based in New York, built with vanilla HTML, CSS, and JavaScript.
 
+> Demo available at: https://ygorfrc.github.io/awax-landing-page/
+
 ## Overview
 
 Awax is a professional, fully-responsive website showcasing a design agency's services, portfolio, team, and pricing. It features smooth animations, interactive sliders, and a clean, contemporary design perfect for creative professionals.
