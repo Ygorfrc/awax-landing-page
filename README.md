@@ -4,6 +4,7 @@
 ![JavaScript](https://img.shields.io/badge/Vanilla-JS-F7DF1E.svg)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26.svg)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge&logo=github)
 
 A responsive landing page for a modern creative design agency based in New York, built with vanilla HTML, CSS, and JavaScript.
 
@@ -102,6 +103,7 @@ This project is open source and available under the MIT License.
 
 - Icons from [Icons8](https://icons8.com)
 - Font: [Montserrat](https://fonts.google.com/specimen/Montserrat) from Google Fonts
+- UI/UX Design by [Invision](https://www.behance.net/invision) (available on [Behance](https://www.behance.net/gallery/58301549/Free-Landing-Page))
 
 ## Author
 
